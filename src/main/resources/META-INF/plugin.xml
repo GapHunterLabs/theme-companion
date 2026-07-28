@@ -19,7 +19,7 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <bundledColorScheme path="/schemes/GapHunterMonokai.xml"/>
+        <bundledColorScheme path="/schemes/GapHunterMonokai"/>
         <fileIconProvider implementation="dev.gaphunter.themecompanion.icons.SourceRootIconProvider"/>
     </extensions>
 </idea-plugin>
