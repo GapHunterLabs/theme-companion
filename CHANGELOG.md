@@ -24,6 +24,6 @@
   losing it after an update.
 - No telemetry, no license prompts, no forced UI changes.
 
-[Unreleased]: https://github.com/kendjm/theme-companion/compare/0.1.1...HEAD
-[0.1.1]: https://github.com/kendjm/theme-companion/compare/0.1.0...0.1.1
-[0.1.0]: https://github.com/kendjm/theme-companion/commits/0.1.0
+[Unreleased]: https://github.com/GapHunterLabs/theme-companion/compare/0.1.1...HEAD
+[0.1.1]: https://github.com/GapHunterLabs/theme-companion/compare/0.1.0...0.1.1
+[0.1.0]: https://github.com/GapHunterLabs/theme-companion/commits/0.1.0
