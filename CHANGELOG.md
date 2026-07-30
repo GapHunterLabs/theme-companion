@@ -4,6 +4,18 @@
 
 ## [Unreleased]
 
+## [0.1.2]
+
+### Fixed
+
+- The "Gap Hunter Monokai" color scheme was never actually loadable: its
+  `bundledColorScheme` registration in `plugin.xml` included the `.xml`
+  extension in the `path` attribute, which the platform appends
+  automatically — the plugin was pointing at a nonexistent
+  `GapHunterMonokai.xml.xml`. Fixed by dropping the extension from the
+  registered path. Verified in `runIde`: Settings > Editor > Color
+  Scheme now shows "Gap Hunter Monokai" as selectable and applied.
+
 ## [0.1.1]
 
 ### Added
@@ -24,6 +36,7 @@
   losing it after an update.
 - No telemetry, no license prompts, no forced UI changes.
 
-[Unreleased]: https://github.com/GapHunterLabs/theme-companion/compare/0.1.1...HEAD
+[Unreleased]: https://github.com/GapHunterLabs/theme-companion/compare/0.1.2...HEAD
+[0.1.2]: https://github.com/GapHunterLabs/theme-companion/compare/0.1.1...0.1.2
 [0.1.1]: https://github.com/GapHunterLabs/theme-companion/compare/0.1.0...0.1.1
 [0.1.0]: https://github.com/GapHunterLabs/theme-companion/commits/0.1.0
