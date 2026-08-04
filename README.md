@@ -58,6 +58,11 @@ Scheme, and pick "Gap Hunter Monokai." Source/test/resource root icons work
 automatically wherever a module marks a directory as one — no configuration
 needed.
 
+## Enterprise / Team Licensing
+
+Need enterprise features, custom color schemes, or team licensing?
+Contact us at **kennyj.diazm@gmail.com**.
+
 ## Development
 
 ```
