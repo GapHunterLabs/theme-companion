@@ -4,6 +4,12 @@ IntelliJ-family plugin. A dark, high-contrast editor color scheme plus a
 folder-icon provider that keeps source/test/resource root icons showing up,
 always.
 
+![Theme Companion: a warm, high-contrast color scheme, no license popups](docs/media/hero.gif)
+
+Each feature on its own:
+[Gap Hunter Monokai](docs/media/01-switch-scheme.gif) ·
+[Every language](docs/media/02-typescript.gif)
+
 ## Why it exists
 
 Born from real evidence in JetBrains Marketplace reviews of a paid Monokai
