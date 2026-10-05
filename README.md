@@ -64,10 +64,12 @@ Scheme, and pick "Gap Hunter Monokai." Source/test/resource root icons work
 automatically wherever a module marks a directory as one — no configuration
 needed.
 
-## Enterprise / Team Licensing
+## Support
 
-Need enterprise features, custom color schemes, or team licensing?
-Contact us at **gaphunterlabs@gmail.com**.
+- **Bugs and feature requests:** [GitHub Issues](https://github.com/GapHunterLabs/theme-companion/issues)
+- **Questions, or custom rules for a team's codebase:** **gaphunterlabs@gmail.com**
+- **Security vulnerabilities:** report privately as described in [SECURITY.md](SECURITY.md), not in a public issue.
+- **Privacy and network behavior:** [PRIVACY.md](PRIVACY.md)
 
 ## Development
 
