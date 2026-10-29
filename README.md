@@ -40,7 +40,7 @@ assumptions:
 - **An original palette, not a copy of the competitor's.** The classic
   "monokai" aesthetic (dark warm-gray background, vivid pink/green/blue/
   yellow/violet accents) is a decades-old, widely-reused style, not a
-  trademarked exact palette — but the specific hex values here are my own,
+  trademarked exact palette — but the specific hex values here are our own,
   chosen to be clearly distinct from both the original Monokai and Monokai
   Pro's palettes.
 - **`FileIconProvider` resolves icons only from `AllIcons`**, a hard
@@ -67,7 +67,7 @@ needed.
 ## Support
 
 - **Bugs and feature requests:** [GitHub Issues](https://github.com/GapHunterLabs/theme-companion/issues)
-- **Questions, or custom rules for a team's codebase:** **gaphunterlabs@gmail.com**
+- **Questions, or custom rules for a team's codebase:** **contact@gaphunterlabs.com**
 - **Security vulnerabilities:** report privately as described in [SECURITY.md](SECURITY.md), not in a public issue.
 - **Privacy and network behavior:** [PRIVACY.md](PRIVACY.md)
 
