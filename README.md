@@ -40,7 +40,7 @@ assumptions:
 - **An original palette, not a copy of the competitor's.** The classic
   "monokai" aesthetic (dark warm-gray background, vivid pink/green/blue/
   yellow/violet accents) is a decades-old, widely-reused style, not a
-  trademarked exact palette — but the specific hex values here are our own,
+  trademarked exact palette — but the specific hex values here are my own,
   chosen to be clearly distinct from both the original Monokai and Monokai
   Pro's palettes.
 - **`FileIconProvider` resolves icons only from `AllIcons`**, a hard
